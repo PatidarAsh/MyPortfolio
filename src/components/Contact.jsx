@@ -8,9 +8,9 @@ function Contact() {
                 <p className='text-4xl font-bold inline border-b-4 border-pink-600 text-black'>Contact</p>
                 <p className='text-black py-4'>// Submit the form below or shoot me an email - patidar.as@northeastern.edu</p>
             </div>
-            <input className='bg-neutral-300 border-slate-500 border-2 p-2' type="text" placeholder='Name' name='name' />
-            <input className='my-4 p-2 border-slate-500 border-2 bg-neutral-300' type="email" placeholder='Email' name='email' />
-            <textarea className='bg-neutral-300 p-2 border-slate-500 border-2' name="message" rows="8" placeholder='Message'></textarea>
+            <input className='bg-neutral-300 border-slate-500 border-2 p-2' type="text" placeholder='Name' name='name' required />
+            <input className='my-4 p-2 border-slate-500 border-2 bg-neutral-300' type="email" placeholder='Email' name='email' required />
+            <textarea className='bg-neutral-300 p-2 border-slate-500 border-2' name="message" rows="8" placeholder='Message' required></textarea>
             <button className='text-white bg-[#C3073F] hover:bg-[#1e3751] hover:border-[#1e3751] px-4 py-3 my-8 mx-auto flex items-center'>Let's Collaborate</button>
         </form>
     </div>
