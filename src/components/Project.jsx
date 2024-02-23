@@ -29,33 +29,11 @@ const Project = () => {
           <a href="https://github.com/PatidarAsh/Mern-Estate.git" target="_blank" rel="noreferrer">
             <button class="rounded-sm text-white bg-[#C3073F] px-3 py-1 my-3 mx-1 flex items-center hover:bg-[#1e3751]">Code</button>
           </a>
-        </div>
-      </div>
-      {/* <div class="shadow-md shadow-[#040c16] group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
-        <div>
-          <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">WebApp (CloudOps)</h3>
-          <p class="text-[#6a7280]">2023</p>
-          <div class="pt-1 flex flex-wrap justify-center gap-0 items-center">
-            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white"></p>
-            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white"></p>
-            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white"></p>
-            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white"></p>
-            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white"></p>
-            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white"></p>
-            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white"></p>
-            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white"></p>
-            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white"></p>
-            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white"></p>
-            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white"></p>
-          </div>
-          <p class="py-2 text-[#6a7280]">A highly scalable RESTful API for a Cloud Native application with Github Actions using NodeJS, Express and Postgres. Deployed using AWS Terraform IaC integrating S3, RDS, Cloudwatch and EC2 using a custom AMI built using Packer.</p>
-        </div>
-        <div class="flex text-center ">
-          <a href="https://github.com/orgs/CloudComputingSpringCSYE6225/repositories" target="_blank" rel="noreferrer">
-            <button class="rounded-sm text-white bg-[#C3073F] px-3 py-1 my-3 mx-1 flex items-center hover:bg-[#1e3751]">Code</button>
+          <a href="https://skyline-realesate.onrender.com" target="_blank" rel="noreferrer">
+            <button class="rounded-sm text-white bg-[#C3073F] px-3 py-1 my-3 mx-1 flex items-center hover:bg-[#1e3751]">Demo</button>
           </a>
         </div>
-      </div> */}
+      </div>
       <div class="shadow-md shadow-[#040c16] group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
         <div>
           <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">Amazon Community</h3>
@@ -126,9 +104,9 @@ const Project = () => {
           <a href="https://github.com/PatidarAsh/CSYE_FinalProject.git" target="_blank" rel="noreferrer">
             <button class="rounded-sm text-white bg-[#C3073F] px-3 py-1 my-3 mx-1 flex items-center hover:bg-[#1e3751]">Code</button>
           </a>
-          {/* <a href="" target="_blank" rel="noreferrer">
+          <a href="https://drive.google.com/file/d/1Fd_RC4Nwh4Wwdo5yxDoRgzTKz9PLT4xg/view?usp=sharing" target="_blank" rel="noreferrer">
             <button class="rounded-sm text-white bg-[#C3073F] px-3 py-1 my-3 mx-1 flex items-center hover:bg-[#1e3751]">Demo</button>
-          </a> */}
+          </a>
         </div>
       </div>
       </div>
