@@ -44,9 +44,9 @@ const Project = () => {
           <p class="py-2 text-[#6a7280]">This UX project involved integrating Twitter-like functionality into the Amazon app, focusing on tasks such as live sessions, group shopping, following users, and product searches with hashtags, with a key emphasis on clear navigation and intuitive design.</p>
         </div>
         <div class="flex text-center ">
-          {/* <a href="https://github.com/orgs/CloudComputingSpringCSYE6225/repositories" target="_blank" rel="noreferrer">
+          <a href="https://www.figma.com/proto/gtRe3osceIdUf9ueCqArGE/Ashvini_Patidar?type=design&node-id=685-412&viewport=1748%2C2031%2C0.39&t=b76cJn1lTgRDykzM-0&scaling=min-zoom&starting-point-node-id=689%3A618" target="_blank" rel="noreferrer">
             <button class="rounded-sm text-white bg-[#C3073F] px-3 py-1 my-3 mx-1 flex items-center hover:bg-[#1e3751]">Code</button>
-          </a> */}
+          </a>
           <a href="https://www.figma.com/proto/gtRe3osceIdUf9ueCqArGE/Ashvini_Patidar?type=design&node-id=573-1345&viewport=-545%2C-1113%2C0.23&t=XYEr4rCvJC4pbIgb-0&scaling=scale-down&starting-point-node-id=574%3A1351" target="_blank" rel="noreferrer">
             <button class="rounded-sm text-white bg-[#C3073F] px-3 py-1 my-3 mx-1 flex items-center hover:bg-[#1e3751]">Demo</button>
           </a>
@@ -63,9 +63,9 @@ const Project = () => {
           and iterating on the design to enhance the user experience of the mobile app that helps find people their furry friend.</p>
         </div>
         <div class="flex text-center ">
-          {/* <a href="https://www.figma.com/file/gtRe3osceIdUf9ueCqArGE/Ashvini_Patidar?type=design&node-id=190%3A225&mode=design&t=xzviz4vo6lw8i4ir-1" target="_blank" rel="noreferrer">
+          <a href="https://www.figma.com/proto/gtRe3osceIdUf9ueCqArGE/Ashvini_Patidar?type=design&node-id=72-377&viewport=193%2C99%2C0.11&t=b76cJn1lTgRDykzM-0&scaling=min-zoom&starting-point-node-id=490%3A695" target="_blank" rel="noreferrer">
             <button class="rounded-sm text-white bg-[#C3073F] px-3 py-1 my-3 mx-1 flex items-center hover:bg-[#1e3751]">Code</button>
-          </a> */}
+          </a>
           <a href="https://www.figma.com/proto/gtRe3osceIdUf9ueCqArGE/Ashvini_Patidar?type=design&node-id=190-225&viewport=170%2C346%2C0.03&t=Jt7pl2GiOUqrlGGR-0&scaling=scale-down&starting-point-node-id=222%3A2468&show-proto-sidebar=1" target="_blank" rel="noreferrer">
             <button class="rounded-sm text-white bg-[#C3073F] px-3 py-1 my-3 mx-1 flex items-center hover:bg-[#1e3751]">Demo</button>
           </a>
