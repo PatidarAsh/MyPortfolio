@@ -10,6 +10,9 @@ import Tailwind from '../assets/tailwind.png';
 import Mongo from '../assets/mongo.png';
 import Figma from '../assets/figma.png';
 import Java from '../assets/java.png';
+import AWS from '../assets/aws.png';
+import Docker from '../assets/docker.png';
+import Kubernetes from '../assets/kubernetes.png';
 
 function Skills() {
   return (
@@ -31,7 +34,7 @@ function Skills() {
 
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-                <img className='w-20 mx-auto' src={CSS} alt="HTML icon" />
+                <img className='w-20 mx-auto' src={CSS} alt="CSS icon" />
                   <p className='my-4'>CSS</p>
                 </a>
                   
@@ -39,7 +42,7 @@ function Skills() {
 
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-                <img className='w-20 mx-auto' src={JavaScript} alt="HTML icon" />
+                <img className='w-20 mx-auto' src={JavaScript} alt="JS icon" />
                   <p className='my-4'>JAVASCRIPT</p>
                 </a>
                   
@@ -47,42 +50,42 @@ function Skills() {
 
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <a href="https://legacy.reactjs.org/">
-                <img className='w-20 mx-auto' src={ReactImg} alt="HTML icon" />
+                <img className='w-20 mx-auto' src={ReactImg} alt="React icon" />
                   <p className='my-4'>REACT</p>
                 </a>
               </div>
 
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <a href="https://docs.github.com/en">
-                <img className='w-20 mx-auto' src={GitHub} alt="HTML icon" />
+                <img className='w-20 mx-auto' src={GitHub} alt="Github icon" />
                   <p className='my-4'>GITHUB</p>
                 </a>
               </div>
 
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <a href="https://nodejs.org/docs/latest/api/">
-                <img className='w-20 mx-auto' src={Node} alt="HTML icon" />
+                <img className='w-20 mx-auto' src={Node} alt="Node icon" />
                   <p className='my-4'>NODE JS</p>
                 </a>
               </div>
 
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <a href="https://www.mongodb.com/docs/">
-                <img className='w-20 mx-auto' src={Mongo} alt="HTML icon" />
+                <img className='w-20 mx-auto' src={Mongo} alt="MongoDB icon" />
                   <p className='my-4'>MONGO DB</p>
                 </a>
               </div>
 
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <a href="https://tailwindcss.com/docs/installation">
-                  <img className='w-20 mx-auto' src={Tailwind} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={Tailwind} alt="Tailwind icon" />
                   <p className='my-4'>TAILWIND</p>
                 </a>
               </div>
 
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <a href="https://help.figma.com/hc/en-us">
-                  <img className='w-20 mx-auto' src={Figma} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={Figma} alt="Figma icon" />
                   <p className='my-4'>FIGMA</p>
                 </a>
               </div>
@@ -91,6 +94,27 @@ function Skills() {
                 <a href="https://help.figma.com/hc/en-us">
                   <img className='w-20 mx-auto' src={Java} alt="HTML icon" />
                   <p className='my-4'>Java</p>
+                </a>
+              </div>
+
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                <a href="https://docs.aws.amazon.com/">
+                  <img className='w-20 mx-auto' src={AWS} alt="AWS icon" />
+                  <p className='my-4'>AWS</p>
+                </a>
+              </div>
+
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                <a href="https://docker-docs.uclv.cu/">
+                  <img className='w-20 mx-auto' src={Docker} alt="Docker icon" />
+                  <p className='my-4'>Docker</p>
+                </a>
+              </div>
+
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                <a href="https://kubernetes.io/docs/setup/">
+                  <img className='w-20 mx-auto' src={Kubernetes} alt="Kubernetes icon" />
+                  <p className='my-4'>Kubernetes</p>
                 </a>
               </div>
               
