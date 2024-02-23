@@ -12,7 +12,7 @@ import Figma from '../assets/figma.png';
 import Java from '../assets/java.png';
 import AWS from '../assets/aws.png';
 import Docker from '../assets/docker.png';
-import Kubernetes from '../assets/kubernetes.png';
+import Kubernetes from '../assets/kubernetes.jpg';
 
 function Skills() {
   return (
