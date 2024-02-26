@@ -8,8 +8,7 @@ function Work() {
       <p class="text-4xl font-bold inline border-b-4 border-[#C3073F]">Work Experience</p>
       <p class="py-4">Experience that I have</p>
       </div>
-      <div class="shadow-md shadow-[#040c16] group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
-        <div>
+      <div class="shadow-md shadow-[#040c16] group container rounded-md   justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
           <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">Software Engineer </h3>
           <p class="text-[#6a7280]">HCL Technologies, Noida </p>
           <h5>Oct 2020 – Jun 2022</h5>
@@ -20,7 +19,6 @@ function Work() {
             With exposure to SaaS and Bootstrap, I actively participated in distributed Agile teams following SDLC in scrum meetings. 
             My role extended to developing, maintaining, and troubleshooting responsive websites for multiple clients, employing HTML, 
             CSS, JavaScript, and jQuery. Conducting user research, I identified and addressed user needs efficiently.</p>
-        </div>
       
       </div>
       
