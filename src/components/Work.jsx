@@ -13,24 +13,18 @@ function Work() {
         <div>
           <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">Software Engineer </h3>
           <p class="text-[#6a7280]">HCL Technologies, Noida </p>
-          <h5>Jul 2021 – Jun 2022</h5>
-          <p class="py-2 text-[#6a7280]">I constructed a NodeJS-based RESTful API. 
-           Maintained ReactJS app stability and upkeep by adhering to top practices and resolving issues. 
-           Employed Agile,React Developer Tools, and Chrome DevTools for an effective product development process.</p>
+          <h5>Oct 2020 – Jun 2022</h5>
+          <p class="py-2 text-[#6a7280]">As a frontend developer, I focused on React applications, 
+          integrating modern UI/UX designs that increased user engagement. 
+          I successfully implemented Redux for state management. Additionally,
+           I connected applications to backend services using REST APIs and collaborated across teams for seamless UI integration.
+            With exposure to SaaS and Bootstrap, I actively participated in distributed Agile teams following SDLC in scrum meetings. 
+            My role extended to developing, maintaining, and troubleshooting responsive websites for multiple clients, employing HTML, 
+            CSS, JavaScript, and jQuery. Conducting user research, I identified and addressed user needs efficiently.</p>
         </div>
       
       </div>
-      <div class="shadow-md shadow-[#040c16] group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
-        <div>
-          <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">Software Engineer Intern  </h3>
-          <p class="text-[#6a7280]">HCL Technologies, Noida</p>
-          <h5>Oct 2020 – Jun 2021</h5>
-          <p class="py-2 text-[#6a7280]">Actively coded and built responsive interfaces, gaining hands-on knowledge in responsive design.  
-          Improved testing procedures, increasing overall efficiency by 20%. Implemented version control best practices, 
-          boosting team productivity by 15%.</p>
-        </div>
       
-      </div>
      
       </div>
     </div>
