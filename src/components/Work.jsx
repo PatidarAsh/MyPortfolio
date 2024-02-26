@@ -8,7 +8,6 @@ function Work() {
       <p class="text-4xl font-bold inline border-b-4 border-[#C3073F]">Work Experience</p>
       <p class="py-4">Experience that I have</p>
       </div>
-      <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-4'>
       <div class="shadow-md shadow-[#040c16] group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
         <div>
           <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">Software Engineer </h3>
@@ -26,7 +25,7 @@ function Work() {
       </div>
       
      
-      </div>
+
     </div>
   </div>
   )
