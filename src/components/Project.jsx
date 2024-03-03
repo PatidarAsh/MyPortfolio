@@ -2,17 +2,16 @@ import React from 'react'
 
 const Project = () => {
   return (
-  <div name="projects" class="w-full md:min-h-screen text-[#1e3751]">
+  <div name="projects" id='project' class="w-full md:min-h-screen text-white bg-black ">
     <div class="max-w-[1000px] mx-auto p-5 flex flex-col justify-center w-full h-full">
       <div class="pb-8">
       <p class="text-4xl font-bold inline border-b-4 border-[#C3073F]">Projects</p>
-      <p class="py-4">Projects that I am proud of</p>
       </div>
       <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-4'>
-      <div class="shadow-md shadow-[#040c16] group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
+      <div class="shadow-md shadow-[#b1b8c1] bg-white group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
         <div>
           <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">Modern Real Estate Marketplace </h3>
-          <p class="text-[#6a7280]">2023</p>
+          {/* <p class="text-[#6a7280]">2023</p> */}
           <div class="pt-1 flex flex-wrap justify-center gap-0 items-center">
             <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">ReactJS</p>
             <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">NodeJS</p>
@@ -34,10 +33,10 @@ const Project = () => {
           </a>
         </div>
       </div>
-      <div class="shadow-md shadow-[#040c16] group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
+      <div class="shadow-md shadow-[#b1b8c1]  bg-white group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
         <div>
           <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">Amazon Community</h3>
-          <p class="text-[#6a7280]">2023</p>
+          {/* <p class="text-[#6a7280]">2023</p> */}
           <div class="pt-1 flex flex-wrap justify-center gap-0 items-center">
             <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">Figma</p>
           </div>
@@ -52,10 +51,10 @@ const Project = () => {
           </a>
         </div>
       </div>
-      <div class="shadow-md shadow-[#040c16] group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
+      <div class="shadow-md shadow-[#b1b8c1] bg-white group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
         <div>
           <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">PetMatch App</h3>
-          <p class="text-[#6a7280]">2023</p>
+          {/* <p class="text-[#6a7280]">2023</p> */}
           <div class="pt-1 flex flex-wrap justify-center gap-0 items-center">
             <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">Figma</p>
           </div>
@@ -71,10 +70,10 @@ const Project = () => {
           </a>
         </div>
       </div>
-      <div class="shadow-md shadow-[#040c16] group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
+      <div class="shadow-md shadow-[#b1b8c1] bg-white group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
         <div>
           <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">Retail Analytics</h3>
-          <p class="text-[#6a7280]">2023</p>
+          {/* <p class="text-[#6a7280]">2023</p> */}
           <div class="pt-1 flex flex-wrap justify-center gap-0 items-center">
             <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">Oracle SQL</p>
             <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">Pl/SQL</p>
@@ -91,10 +90,10 @@ const Project = () => {
           </a> */}
         </div>
       </div>
-      <div class="shadow-md shadow-[#040c16] group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
+      <div class="shadow-md shadow-[#b1b8c1] bg-white group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
         <div>
           <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">Word Puzzle Game</h3>
-          <p class="text-[#6a7280]">2023</p>
+          {/* <p class="text-[#6a7280]">2023</p> */}
           <div class="pt-1 flex flex-wrap justify-center gap-0 items-center">
             <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">JavaFX</p>
           </div>
