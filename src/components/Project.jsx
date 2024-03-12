@@ -108,6 +108,28 @@ const Project = () => {
           </a>
         </div>
       </div>
+      <div class="shadow-md shadow-[#b1b8c1] bg-white group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
+        <div>
+          <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">ReactifyJournal</h3>
+          {/* <p class="text-[#6a7280]">2023</p> */}
+          <div class="pt-1 flex flex-wrap justify-center gap-0 items-center">
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">ReactJS</p>
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">NextJS</p>
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">Tailwind CSS</p>
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">GraphQL</p>
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">hygraphCMS</p>
+          </div>
+          <p class="py-2 text-[#6a7280]">Modern Blog App: a dynamic, fully responsive blog application powered by a #HeadlessCMS. It includes features like featured posts, categorized articles, full markdown support, author information, comments, and seamless responsiveness across various devices.</p>
+        </div>
+        <div class="flex text-center ">
+          <a href="https://github.com/PatidarAsh/ReactJournal.git" target="_blank" rel="noreferrer">
+            <button class="rounded-sm text-white bg-[#C3073F] px-3 py-1 my-3 mx-1 flex items-center hover:bg-[#1e3751]">Code</button>
+          </a>
+          {/* <a href="https://drive.google.com/file/d/1Fd_RC4Nwh4Wwdo5yxDoRgzTKz9PLT4xg/view?usp=sharing" target="_blank" rel="noreferrer">
+            <button class="rounded-sm text-white bg-[#C3073F] px-3 py-1 my-3 mx-1 flex items-center hover:bg-[#1e3751]">Demo</button>
+          </a> */}
+        </div>
+      </div>
       </div>
     </div>
   </div>
