@@ -33,23 +33,17 @@ function Work() {
   <h5 class="py-2 text-black text-center">Oct 2020 – Jun 2022</h5>
   <ul class="list-disc pl-6">
     <li class="py-2 text-black">
-      Engineered a scalable front-end architecture by implementing reusable components with <span class="text-indigo-800 font-semibold">React</span> and <span class="text-indigo-800 font-semibold">JavaScript ES6</span>, resulting in a 10% improvement in development efficiency
+    Developed responsive and interactive web application for over 40 clients utilizing semantic <span class="text-indigo-800 font-semibold">HTML5</span>,<span class="text-indigo-800 font-semibold">JavaScript</span>, <span class="text-indigo-800 font-semibold">ReactJS</span> and <span class="text-indigo-800 font-semibold">CSS</span> , leveraging Webpack build tools for code compilation ,resulting in a 10% improvement in development efficiency
     </li>
     <li class="py-2 text-black">
-      Spearheaded the implementation of <span class="text-indigo-800 font-semibold">Redux</span>  for state management, leading to an impressive 8% reduction in bugs and enhancing the overall stability of the application
+    Assisted in creation of a dashboard web application for monitoring patients data using <span class="text-indigo-800 font-semibold">ReactJS</span>  and <span class="text-indigo-800 font-semibold">Redux</span> to interact with microservices in cloud via <span class="text-indigo-800 font-semibold">RESTful APIs</span> 
     </li>
-    <li class="py-2 text-black">
-      Utilized <span class="text-indigo-800 font-semibold">NodeJS</span> and <span class="text-indigo-800 font-semibold">MongoDB</span> to develop <span class="text-indigo-800 font-semibold">REST APIs</span>, facilitating seamless connectivity between the application and backend services, resulting in a 10% increase in data retrieval speed
-    </li>
-    <li class="py-2 text-black">
-      Collaborated with designers and back-end developers, achieving seamless UI integration and enhancing user engagement by 5% with modern <span class="text-indigo-800 font-semibold">UI/UX designs</span>in the enterprise web app
-    </li>
-    <li class="py-2 text-black">
-      Developed understanding of <span class="text-indigo-800 font-semibold">SaaS</span> and <span class="text-indigo-800 font-semibold">Bootstrap</span> while actively contributing to projects, cultivating skills in responsive design and ensuring cross-browser compatibility
-    </li>
-    <li class="py-2 text-black">
-      Actively participated in <span class="text-indigo-800 font-semibold">scrum</span> meetings with distributed <span class="text-indigo-800 font-semibold">Agile</span> teams following software development life cycle (SDLC)
-    </li>
+    <li class="py-2 text-black">Developed and designed <span class="text-indigo-800 font-semibold">UI</span> for a database of customer’s health and created a secure login for over 100 members.</li>
+    <li class="py-2 text-black">Collaborated with cross-functional teams, including UX designers and back-end developers, to implement performance-driven
+design changes.</li>
+<li class="py-2 text-black">Revamped rendering inconsistencies, conducting thorough tests, implementing fixes, realizing a 20% improvement and slashing
+bounce rates by 15%.</li>
+<li class="py-2 text-black">Developed understaing of <span class="text-indigo-800 font-semibold">Docker</span> and <span class="text-indigo-800 font-semibold">Kubernetes</span> for project deployment, while also enhancing skills in responsive design and ensuring seamless cross-browser compatibility.</li>
   </ul>
 </div>
 
