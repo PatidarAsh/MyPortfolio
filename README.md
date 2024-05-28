@@ -31,18 +31,14 @@ Make sure you have Node.js and npm installed on your machine.
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git`
-2. Navigate to the project directory: `cd your-portfolio`
+2. Navigate to the project directory: `cd my-portfolio`
 3. Install dependencies: `npm install`
 
 ### Run Locally
 Run the development server: `npm start`
 Open your browser and visit `http://localhost:3000` to view your portfolio locally.
 
-## Acknowledgments
-Give credit to any third-party libraries, frameworks, or resources you have used in your portfolio.
 
-## License
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
