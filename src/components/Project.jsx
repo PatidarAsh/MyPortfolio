@@ -130,6 +130,28 @@ const Project = () => {
           </a> */}
         </div>
       </div>
+      <div class="shadow-md shadow-[#b1b8c1] bg-white group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
+        <div>
+          <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">NexWatch-Studios</h3>
+          {/* <p class="text-[#6a7280]">2023</p> */}
+          <div class="pt-1 flex flex-wrap justify-center gap-0 items-center">
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">Next.js</p>
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">MongoDB</p>
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">Tailwind CSS</p>
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">TMDB API Integration</p>
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">NextAuth</p>
+          </div>
+          <p class="py-2 text-[#6a7280]">A modern streaming service app that provides users with a convenient way to play and watch the latest movies and TV shows available on the internet. With a user-friendly interface and a vast collection of content, NexWatch aims to deliver an exceptional streaming experience to its users</p>
+        </div>
+        <div class="flex text-center ">
+          <a href="https://github.com/PatidarAsh/Nexwatch-Studios.git" target="_blank" rel="noreferrer">
+            <button class="rounded-sm text-white bg-[#C3073F] px-3 py-1 my-3 mx-1 flex items-center hover:bg-[#1e3751]">Code</button>
+          </a>
+          {/* <a href="https://drive.google.com/file/d/1Fd_RC4Nwh4Wwdo5yxDoRgzTKz9PLT4xg/view?usp=sharing" target="_blank" rel="noreferrer">
+            <button class="rounded-sm text-white bg-[#C3073F] px-3 py-1 my-3 mx-1 flex items-center hover:bg-[#1e3751]">Demo</button>
+          </a> */}
+        </div>
+      </div>
       </div>
     </div>
   </div>
